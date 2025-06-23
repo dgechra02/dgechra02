@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is Rajendra from Dehradun</p>
+<p align="left">This is Rajendra from IIT Roorkee </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025
+<p align="left">✨ Creating bugs since 2025 (but fixing them is even more fun!) <br>📚 I'm currently learning full-stack development. <br> 🎯 Goals: Build meaningful web apps
 
 ###
 
