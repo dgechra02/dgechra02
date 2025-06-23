@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Recently finished Fronted and now moving towards catching other things</h2>
+<h2 align="left">🌟 Recently wrapped up frontend development — now diving deeper into the full stack and exploring new horizons.</h2>
 
 ###
 
